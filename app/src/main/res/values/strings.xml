@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android Compose UI</string>
+    <string name="question1">1 + 1 = 2</string>
+    <string name="question2">1 + 1 = 11</string>
+    <string name="question3">2 + 3 = 23</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="trueText">True</string>
+    <string name="falseText">False</string>
+    <string name="reset">Reset</string>
+    <string name="next">Next</string>
+    <string-array
+        name="questions">
+        <item>1 + 1 = 2</item>
+        <item>1 + 1 = 11</item>
+        <item>2 + 3 = 23</item>
+    </string-array>
+</resources>
